@@ -1,0 +1,148 @@
+div.bo{
+text-align: center;
+
+background-image: url("images\bg-header-desktop.png");
+ 
+ opacity:60%;
+}
+div.b{
+    text-align: center;
+     background-color:whitesmoke;
+     margin-left: 30%;
+     margin-right: 30%;
+     opacity:100%;
+    
+    }
+div.box{
+    text-align: center;
+    }
+
+    div.log{
+        text-align: left;
+        margin-bottom: -9%;
+        }
+        div.logos{
+            text-align: right;
+            margin-top: 0%;
+            margin-bottom:20%;
+            margin-left: 0%;
+            margin-right: 0%;
+            }
+body{
+    width:100%;
+    background-image: image-set("header-desktop.png");
+}
+
+footer{
+ width: 10;
+ height:max-content;
+ background-color: lightgray;
+ opacity: 60%;
+ color: black;
+}
+
+
+
+div.l{
+text-align: left;
+margin-left: 5%;
+}
+.links{
+    text-align: center;
+    margin-left: 5%;
+    }
+div.c{
+text-align: center;
+margin-left: 5%;
+}
+div.r{
+text-align: right;
+margin-left: 5%;
+}
+div.ry{
+    text-align: right;
+    margin-left: 5%;
+    }
+
+.image{
+    margin-left: 40%;
+}
+.mainDivOne{
+    display : flex;
+    justify-content: center;
+}
+.Bottom{
+ 
+   display:flex;
+  justify-content: center;
+   margin-left: 0%;
+   opacity:100%;
+}
+.text{
+  margin-left: 20%;
+
+}
+.btn1{
+    color: white;
+    background-color: rgb(38,187,165);
+    border-radius: 50px;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+
+.btn{
+    color: white;
+    background-color:rgb(128, 128, 255);
+    border-radius: 50px;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+.btn3{
+    color: white;
+    background-color:rgb(11, 194, 154);
+    border-radius: 50px;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+.btn4{
+    color: white;
+    background-color:rgb(128, 128, 255);
+    border-radius: 50px;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+.container{
+  display:flex;
+  justify-content: center;
+   margin-left: 0%;
+}
+.contain{
+    display:flex;
+    justify-content: center;
+     margin-left: 20%;
+  }
+
+  .headerImage{
+      position: absolute;
+  }
+    
+  .logoFoot{
+      padding-left:-190px;
+      padding-top: 20px;
+  }
+
+footer{
+      text-align: center;
+      
+  }
+  .foot.main{
+    width: 30%;
+    display:flex;
+    justify-content: center;
+     margin-left: 0%;
+  }
+  
